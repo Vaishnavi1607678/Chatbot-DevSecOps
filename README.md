@@ -352,6 +352,8 @@ Now chat with your local AI chatbot
 ---
 <img width="1920" height="1080" alt="Screenshot (697)" src="https://github.com/user-attachments/assets/72aec284-7e7b-4056-acba-6a5a2d1f016c" />
 
+<img width="1920" height="1080" alt="Screenshot (700)" src="https://github.com/user-attachments/assets/d614b2ef-4012-4594-be47-f46fa380b724" />
+
 # STEP 12: Clean Up
 
 To stop all containers:
