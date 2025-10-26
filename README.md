@@ -13,7 +13,7 @@ You will build and run a **DevSecOps pipeline locally** that:
 
 ---
 
-# 📁 FOLDER STRUCTURE
+# FOLDER STRUCTURE
 
 Create a working folder on your local system:
 
@@ -343,7 +343,7 @@ Now chat with your local AI chatbot
 
 ---
 
-# STEP 11: (Optional) View Reports
+# STEP 11: View Reports
 
 * SonarQube dashboard → [http://localhost:9000](http://localhost:9000)
 * OWASP & Trivy reports → in Jenkins workspace
